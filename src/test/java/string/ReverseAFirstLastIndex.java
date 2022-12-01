@@ -13,7 +13,7 @@ public class ReverseAFirstLastIndex {
 		
 		str[str.length-1]=temp; //a[j]=temp;
 		for (int j = 0; j < str.length; j++) {
-			System.out.println(str[j]);
+			System.out.print(str[j]+" ");
 		}
 		}
 	}

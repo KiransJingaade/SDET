@@ -26,7 +26,6 @@ public class PrintWithDuplicates {
 				}
 			}
 			System.out.println(s+" "+count);
-
 		}
 	}
 

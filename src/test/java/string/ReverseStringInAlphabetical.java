@@ -15,7 +15,6 @@ public class ReverseStringInAlphabetical {
 		{
 		ts.add(str[i]);	
 		}
-		
 		System.out.println(ts);
 		
 		for(String string:ts)
@@ -23,5 +22,4 @@ public class ReverseStringInAlphabetical {
 			System.out.print(string+" ");
 		}
 	}
-
 }

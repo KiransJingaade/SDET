@@ -27,7 +27,6 @@ public class OccurenceDuplicateWordInSentences {
 			if(count>1)
 			{
 				System.out.println(s1+" "+count);
-
 			}
 		}
 	}

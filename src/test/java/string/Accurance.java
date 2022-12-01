@@ -4,7 +4,7 @@ public class Accurance {
 
 	public static void main(String[] args) {
         String s="accurance";
-        String  res="";
+        String res="";
         for (int i = 0; i <s.length(); i++) {
 			char ch1 = s.charAt(i);
 			int count=0;

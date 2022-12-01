@@ -1,5 +1,6 @@
 package string;
 
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 
@@ -7,7 +8,7 @@ public class GroupDuplicates {
 
 	public static void main(String[] args) {
 		String s="acdabcdaabdc";
-		LinkedHashSet<Character> hs = new LinkedHashSet<Character>();
+		HashSet<Character> hs = new HashSet<Character>();
 		
 		for(int i=0;i<s.length();i++)
 		{

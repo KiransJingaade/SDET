@@ -22,8 +22,6 @@ public class PrintUniqueVowelscountWithoutduplicates {
         	    count++;
 	           }
 		}
-		System.out.print("vowels without duplicates = "+count);
-		
+		System.out.print("vowels without duplicates = "+count);	
 	}
-
 }

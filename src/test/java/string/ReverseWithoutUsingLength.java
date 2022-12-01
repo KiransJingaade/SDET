@@ -14,5 +14,4 @@ public class ReverseWithoutUsingLength {
 			System.out.print(s.charAt(i));
 		}
 	}
-
 }

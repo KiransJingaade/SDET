@@ -11,5 +11,4 @@ public class AppendAtLast {
 		sb.append("o");
 		System.out.println(sb);
 	}
-
 }
