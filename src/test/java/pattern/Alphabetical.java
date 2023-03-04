@@ -12,5 +12,6 @@ public class Alphabetical {
 			count++;
 			System.out.println();
 		}
+		
 	}
 }
