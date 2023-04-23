@@ -3,7 +3,11 @@
   <groupId>SeleniumAutomation</groupId>
   <artifactId>SDET</artifactId>
   <version>0.0.1-SNAPSHOT</version>
- <build>
+    <properties>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
+    </properties>
+    <build>
   <plugins>
   <plugin>
         <groupId>org.apache.maven.plugins</groupId>
